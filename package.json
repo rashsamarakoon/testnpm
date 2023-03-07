@@ -1,10 +1,10 @@
 {
-  "name": "testpackage",
+  "name": "testnpm",
   "version": "1.0.0",
   "description": "abc...",
   "main": "index.js",
   "scripts": {
-    "test": "testpackage"
+    "test": "testnpm"
   },
   "repository": {
     "type": "git",
