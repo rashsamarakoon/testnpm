@@ -1,0 +1,15 @@
+{
+  "name": "testpackage",
+  "version": "1.0.0",
+  "description": "abc...",
+  "main": "index.js",
+  "scripts": {
+    "test": "testpackage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://oxford.awsdev.infor.com/rashmika.samarakoon/testnpm.git"
+  },
+  "author": "Rashmika Samarakoon",
+  "license": "ISC"
+}
