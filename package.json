@@ -4,12 +4,16 @@
   "description": "abc...",
   "main": "index.js",
   "scripts": {
-    "test": "rsamarakoontestnpm"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/rashsamarakoon/testnpm.git"
   },
+  "bin": {
+    "rsamarakoontestnpm": "./bin/demo-global.js"
+  },
   "author": "Rashmika Samarakoon",
   "license": "ISC"
+  
 }
