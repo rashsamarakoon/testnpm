@@ -1,6 +1,6 @@
 {
   "name": "rsamarakoontestnpm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "abc...",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,4 @@
   },
   "author": "Rashmika Samarakoon",
   "license": "ISC"
-  
 }
